@@ -1,4 +1,4 @@
-CustomerID,SpendMoney,SpendCategory,SpendCategoryRand,AvgMonthlySpending,AddressRand,CountryOfCustomer,Bought Item #1,Bought Item #2,Bought Item #3,Bought Item #4,Bought Item #5,Bought Item #6,Bought Item #7,Bought Item #8
+CustomerID,AvgSpendMoney,SpendCategory,SpendCategoryRand,AvgMonthlySpending,AddressRand,CountryOfCustomer,Bought Item #1,Bought Item #2,Bought Item #3,Bought Item #4,Bought Item #5,Bought Item #6,Bought Item #7,Bought Item #8
 0,1,0,5,390,40,USA,1,1,1,0,1,0,1,1
 1,1,1,25,2860,69,China,1,0,0,0,0,0,0,1
 2,1,1,52,2260,65,China,0,0,0,0,0,0,0,0
